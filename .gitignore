@@ -1,0 +1,4 @@
+venv
+.env
+config/__pycache__
+apps/user/__pycache__
